@@ -74,7 +74,9 @@ After training, the model makes predictions on the test set. The predictions and
 The script generates two plots:
 
 - A bar chart displaying the evaluation metrics.
+<img src="/img/evluation.png">
 - A line chart comparing the actual and predicted stock prices.
+<img src="/img/comparing.png">
 
 ## Performance
 
@@ -82,7 +84,11 @@ The performance of the model can be evaluated by looking at the printed metrics 
 
 ## Contributing
 
-Feel free to contribute to this project by submitting pull requests or suggesting improvements.
+- **LIAO JIONGYI**: Responsible for building and training the model. He will utilize his expertise to optimize the LSTM network architecture, adjust hyperparameters, and ensure the model effectively learns from historical data to predict stock opening prices.
+
+- **YIN ZHIWEI**: In charge of data preprocessing and feature engineering. He will handle data cleaning, standardization, and feature selection. He is also responsible for writing and updating the readme section.
+
+- **CHEN XINYU**: Responsible for code testing and documentation. Emily will ensure the robustness of the code, write test cases so that other developers and users can understand and use our project more easily.
 
 ## License
 
